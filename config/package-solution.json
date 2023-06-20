@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "finance-highlight-client-side-solution",
+    "id": "38c05381-d7e3-44ea-90e7-02f81872e805",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "finance-highlight description"
+      },
+      "longDescription": {
+        "default": "finance-highlight description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "finance-highlight Feature",
+        "description": "The feature that activates elements of the finance-highlight solution.",
+        "id": "2527691b-c668-4cf0-8288-24904fbce434",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/finance-highlight.sppkg"
+  }
+}

@@ -1,0 +1,11 @@
+Title	, Title 
+Periode Bulan	, PeriodeBulan | BulanFin
+Periode Tahun	, PeriodeTahun | TahunFin
+Previous Periode Tahun	, PreviousPeriodeTahun | PrevTahunFin
+Kategori , Kategori | Kategori
+Value Realisasi Periode Current	, ValueRealisasiPeriodeCurrent | ValueFin
+Value Realisasi Periode Previous	, ValueRealisasiPeriodePrevious
+RKAP Periode Current , RKAPPeriodeCurrent
+RKAP FY Periode Current , RKAPFYPeriodeCurrent
+vs RKAP , vsRKAP
+YOY , YOY
